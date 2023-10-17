@@ -55,7 +55,7 @@
 
     <!-- Copyright -->
     <div class="text-center text-white bg-dark  p-3">
-        © 2020 Copyright:
+        © 2023 Copyright:
         <a class="text-white" href="">CRJ Software Technology Pvt Ltd.</a>
     </div>
     <!-- Copyright -->
